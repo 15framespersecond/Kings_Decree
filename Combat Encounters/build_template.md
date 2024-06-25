@@ -1,0 +1,1 @@
+build a easy combat encounter template to use for each encounter

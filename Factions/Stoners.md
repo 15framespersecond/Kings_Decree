@@ -1,0 +1,1 @@
+Been around so long, offers a lot of services in [[Citadel Adbar]]. Last free factions, anyone can join.

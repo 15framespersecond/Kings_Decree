@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d4798289c8a6103f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a9a929b461be06c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0b5f0d226bdfa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/'Cackling witch'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eeb2fd82d925df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/'guild member'.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe0b2dac7a0eeda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Tunneling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "967aa442ea080a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/PCs/Hercules Rockefeller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e281b5f3c3f8ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b09896868606b52e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "654cce9bccf8cfb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f292b838a3853b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c9a20e486c99f34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6d69b234519cecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "57dc4615d95478b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c1b703821c2cb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Events/Tunneling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6608f025ca3e2e30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Events/Tunneling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7591c473d5f58a14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80a7372990fc72ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Events/Tunneling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe0b2dac7a0eeda6",
+  "lastOpenFiles": [
+    "Locations/Vash'erev.md",
+    "Events/Tunneling.md",
+    "Locations/Mercerus.md",
+    "characters/PCs/Francis Arther.md",
+    "characters/PCs/Angelina.md",
+    "characters/PCs/Hercules Rockefeller.md",
+    "characters/PCs/Jim Hammond.md",
+    "characters/Chugs McJugs.md",
+    "Lore/Sloop Interaction.md",
+    "characters/'guild member'.md",
+    "Rust.md",
+    "Lore/Introduction.md",
+    "characters/Reginald storm wind.md",
+    "characters/'Powerful Wizard'.md",
+    "characters/'Cackling witch'.md",
+    "characters/'Brass Dragon'.md",
+    "Combat Encounters/build_template.md",
+    "Events/City on Fire.md",
+    "Locations/Citadel Adbar.md",
+    "Locations/Balders Gate.md",
+    "Factions/Kingdom of many arrows.md",
+    "characters/PCs/Kogros.md",
+    "Factions/Stormwind.md",
+    "Locations/El Turel.md",
+    "Locations/Faerun.md",
+    "Factions/Vilebloods.md",
+    "Factions/Untitled",
+    "characters/PCs",
+    "Combat Encounters",
+    "Events",
+    "Lore",
+    "Factions",
+    "Locations",
+    "characters"
+  ]
+}
