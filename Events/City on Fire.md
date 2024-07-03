@@ -11,9 +11,9 @@ Guild relics on the walls, silver staff
 
 Ceiling on fire and collapsing, step outside and see the building cave in.
 
-NOW just outside the building. Two pathes, orc or warlock. We chose warlock she seem well defended. 
+NOW just outside the building. Two paths, orc or [['warlock']]. We chose warlock she seem well defended. 
 
-Drake
+Drake encounter
 
 Cobalts stabbing away at a guy, a dead guy.
 
@@ -21,7 +21,7 @@ Very  [['Powerful Wizard']] we do not recognize.. He is trying to help, but how 
 
 [['Cackling witch']] that was raising the dead. Harper symbol
 
-[['Massive Air Ship']] Appears
+[['Massive Air Ship']] Appears, blimp
 
 [['Brass Dragon']] encounter
 

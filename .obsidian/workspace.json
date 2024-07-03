@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/Tunneling.md",
+                "file": "Locations/Vash'erev.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c417ebe0f6555e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Tunneling.md",
+                "file": "tmp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Tunneling.md",
+                "file": "tmp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/Tunneling.md"
+                "file": "tmp.md"
               }
             }
           }
@@ -183,34 +195,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0b2dac7a0eeda6",
+  "active": "654cce9bccf8cfb5",
   "lastOpenFiles": [
-    "Locations/Vash'erev.md",
-    "Events/Tunneling.md",
-    "Locations/Mercerus.md",
-    "characters/PCs/Francis Arther.md",
-    "characters/PCs/Angelina.md",
-    "characters/PCs/Hercules Rockefeller.md",
+    "Home.md",
+    "tmp.md",
     "characters/PCs/Jim Hammond.md",
-    "characters/Chugs McJugs.md",
-    "Lore/Sloop Interaction.md",
-    "characters/'guild member'.md",
-    "Rust.md",
-    "Lore/Introduction.md",
-    "characters/Reginald storm wind.md",
-    "characters/'Powerful Wizard'.md",
-    "characters/'Cackling witch'.md",
-    "characters/'Brass Dragon'.md",
-    "Combat Encounters/build_template.md",
-    "Events/City on Fire.md",
+    "Jim Hammond.md",
+    "Locations/Mercerus.md",
+    "Locations/Faerun.md",
+    "Locations/El Turel.md",
     "Locations/Citadel Adbar.md",
     "Locations/Balders Gate.md",
-    "Factions/Kingdom of many arrows.md",
-    "characters/PCs/Kogros.md",
-    "Factions/Stormwind.md",
-    "Locations/El Turel.md",
-    "Locations/Faerun.md",
-    "Factions/Vilebloods.md",
+    "Locations/'The East'.md",
+    "Lore/Sloop Interaction.md",
+    "characters/'guild member'.md",
+    "Events/Tunneling.md",
+    "Events/City on Fire.md",
+    "Combat Encounters/build_template.md",
+    "Hercules.md",
+    "characters/Rust.md",
+    "Todo.md",
+    "Factions/Booty Warriors.md",
+    "Lore/Introduction.md",
+    "Locations/Vash'erev.md",
+    "characters/PCs/Hercules Rockefeller.md",
+    "characters/PCs/Francis Arther.md",
+    "characters/PCs/Angelina.md",
+    "characters/Chugs McJugs.md",
     "Factions/Untitled",
     "characters/PCs",
     "Combat Encounters",
