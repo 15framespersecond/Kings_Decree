@@ -30,5 +30,5 @@
 * [[Mercerus]]
 * [[Vash'erev]]
 ## Events
-* [[City on Fire]]
+* [[Events/City on Fire.md]]
 * [[Fleeing]]
