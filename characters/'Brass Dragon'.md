@@ -1,4 +1,4 @@
-Spotted at [[City on Fire]]
+Spotted at [[1 City on Fire]]
 Brass Dragon, very rare
 
 True Strike Info

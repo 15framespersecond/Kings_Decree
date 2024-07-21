@@ -11,7 +11,7 @@
 * [['Powerful Wizard']]
 * [['Brass Dragon']]
 * [['Cackling witch']]
-* [['guild member']]
+* [[Jay]]
 ## Factions
 * [[Booty Warriors]]
 * [[Stoners]] 
@@ -30,5 +30,5 @@
 * [[Mercerus]]
 * [[Vash'erev]]
 ## Events
-* [[Events/City on Fire.md]]
-* [[Fleeing]]
+* [[1 City on Fire]]
+* [[2 Fleeing]]

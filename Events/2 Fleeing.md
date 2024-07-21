@@ -6,7 +6,7 @@ On top of a tiny air sloop heading east. We are on an emergency craft. Appears e
 Chugs wizard
 People on the ship:
 
-surrounded by party two other people, [[Chugs McJugs]] and anxiety [['guild member'|guy]] holding his possessions. --
+surrounded by party two other people, [[Chugs McJugs]] and anxiety [[Jay|guy]] holding his possessions. --
 
 No clear way to stear ship
 4 ropes connected to blimp?

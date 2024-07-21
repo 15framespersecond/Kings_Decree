@@ -1,0 +1,2 @@
+### Inventory
+	Ghost Sword

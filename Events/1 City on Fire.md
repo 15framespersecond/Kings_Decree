@@ -5,7 +5,7 @@ Massive tower above the mountains, big holes in it with fire smoldering from it.
 We are gathers in the guild hall. Hear crying on pain out side 'They coming ahhh-'
 Massive streak of fire raining on the village, golden wing flying by. 
 
-[['guild member']] injured in front
+[[Jay]] injured in front
 
 Guild relics on the walls, silver staff
 
